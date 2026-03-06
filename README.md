@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeaKirei
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Laravel!
+- 🌱 I’m currently learning Application Security!
 - 📫 Reach me through DM
 
 <!---
