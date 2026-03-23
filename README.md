@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeaKirei
+- 👋 Hi, I’m @duskpetals
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Application Security!
 - 📫 Reach me through DM
